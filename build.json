@@ -1,0 +1,11 @@
+{
+	"id": "GoogleCloudHelper",
+	"version": "1.0",
+	"description": "Util functions for GoogleCloud",
+	"categories": [
+		"cloud",
+		"google",
+		"development"
+	],
+	"compatible_from": "2018.3"
+}
